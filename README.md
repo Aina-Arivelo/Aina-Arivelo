@@ -1,22 +1,17 @@
-<h1 align="center">Hi 👋, I'm YOUR_NAME</h1>
-<h3 align="center">YOUR_TITLE, e.g. Full-Stack Developer | Open Source Enthusiast | Lifelong Learner</h3>
+<h1 align="center">Hi 👋, I'm Safidiniaina Rakotoarivelo</h1>
+<h3 align="center">Full-Stack Developer | AI & Automation | Tech Enthusiast</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" /></a>
-  <a href="https://twitter.com/YOUR_TWITTER"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white" /></a>
-  <a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" /></a>
+  <img src="https://komarev.com/ghpvc/?username=Aina-Arivelo&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+  <a href="www.linkedin.com/in/safidiniaina-fi-rakotoarivelo"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:safidiniaina11@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" /></a>
 </p>
 
 ---
 
 ## 👨‍💻 About Me
 
-- 🔭 I'm currently working on **YOUR_PROJECT**
-- 🌱 I'm currently learning **YOUR_LEARNING_TOPIC**
-- 🤝 I'm looking to collaborate on **YOUR_INTEREST**
-- 💬 Ask me about **YOUR_TOPICS**
-- ⚡ Fun fact: **YOUR_FUN_FACT**
+A student at 42 Antananarivo with a passion for software development, I stand out for my strong sense of autonomy, consistent attention to detail, and excellent analytical skills. Accustomed to challenging environments, I approach every project with a methodical mindset, perseverance, and a strong sense of responsibility.
 
 ## 🛠️ Tech Stack
 
