@@ -3,7 +3,7 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Aina-Arivelo&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
-  <a href="www.linkedin.com/in/safidiniaina-fi-rakotoarivelo"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/safidiniaina-fi-rakotoarivelo/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:safidiniaina11@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" /></a>
 </p>
 
@@ -47,18 +47,7 @@ A student at 42 Antananarivo with a passion for software development, I stand ou
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aina-Arivelo&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
-## 🚀 Featured Projects
-
-| Project | Description | Tech |
-|---------|-------------|------|
-| [Project One](https://github.com/YOUR_USERNAME/project-one) | Short description of what it does | React, Node.js |
-| [Project Two](https://github.com/YOUR_USERNAME/project-two) | Short description of what it does | Python, Flask |
-| [Project Three](https://github.com/YOUR_USERNAME/project-three) | Short description of what it does | TypeScript |
-
 ## 📫 Get in Touch
 
-I'm always open to interesting conversations and collaborations. Reach me on [LinkedIn](https://linkedin.com/in/YOUR_LINKEDIN) or by [email](mailto:YOUR_EMAIL).
+I'm always open to interesting conversations and collaborations. Reach me on [LinkedIn]([https://linkedin.com/in/YOUR_LINKEDIN](https://www.linkedin.com/in/safidiniaina-fi-rakotoarivelo/)) or by [email](mailto:safidiniaina11@gmail.com).
 
-<p align="center">
-  <i>Thanks for stopping by! ⭐ Feel free to explore my repositories.</i>
-</p>
