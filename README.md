@@ -49,5 +49,5 @@ A student at 42 Antananarivo with a passion for software development, I stand ou
 
 ## 📫 Get in Touch
 
-I'm always open to interesting conversations and collaborations. Reach me on [LinkedIn]([https://linkedin.com/in/YOUR_LINKEDIN](https://www.linkedin.com/in/safidiniaina-fi-rakotoarivelo/)) or by [email](mailto:safidiniaina11@gmail.com).
+I'm always open to interesting conversations and collaborations. Reach me on [LinkedIn](https://www.linkedin.com/in/safidiniaina-fi-rakotoarivelo/) or by [email](mailto:safidiniaina11@gmail.com).
 
